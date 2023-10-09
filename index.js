@@ -1,4 +1,4 @@
-function print(data){
+function Print(data){
     return (data)
 }
-module.exports=print
+module.exports=Print
