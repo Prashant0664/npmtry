@@ -1,0 +1,23 @@
+{
+  "name": "printfirst",
+  "version": "1.0.0",
+  "description": "a simple package to print text using print() function",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prashant0664/npmtry.git"
+  },
+  "keywords": [
+    "print",
+    "text"
+  ],
+  "author": "Prashant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prashant0664/npmtry/issues"
+  },
+  "homepage": "https://github.com/Prashant0664/npmtry#readme"
+}
